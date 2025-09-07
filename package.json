@@ -1,0 +1,27 @@
+{
+  "name": "curso-logica-programacao-julio-de-lima",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linguagem.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheus-Alves-Viana/curso-logica-programacao-julio-de-lima.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheus-Alves-Viana/curso-logica-programacao-julio-de-lima/issues"
+  },
+  "homepage": "https://github.com/Matheus-Alves-Viana/curso-logica-programacao-julio-de-lima#readme",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^11.7.2"
+  }
+}
